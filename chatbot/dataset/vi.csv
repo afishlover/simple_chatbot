@@ -1,0 +1,43 @@
+text,label
+Xin chào,greeting
+Xin chào bot,greeting
+Xin chào bot nhé,greeting
+Hế nhô,greeting
+Hế nhô bot,greeting
+Hế nhô bot nhé,greeting
+Chào,greeting
+Chào bot,greeting
+Chào bot nhé,greeting
+Hế lô,greeting
+Hế lô bot,greeting
+Hế lô bot nhé,greeting
+Chào bạn,greeting
+Chào bạn nhé,greeting
+À nhô xê ô,greeting
+À nhô xê ô bot,greeting
+Bông dua,greeting
+Bông dua bot,greeting
+Bot ơi,greeting
+Chao xìn,greeting
+Chao xìn bot,greeting
+Bạn ơi,greeting
+Này bot,greeting
+Hey,call
+Bot,call
+Help,call
+Bạn là ai,identity
+Bot tự giới thiệu,identity
+Bot là ai,identity
+Tự giới thiệu,identity
+describe,identity
+bot là ai,identity
+giới thiệu bản thân,identity
+trang này là gì,page_desc
+đây là trang web gì,page_desc
+giới thiệu về trang,page_desc
+trang này để làm gì,page_desc
+tôi có thể học được gì,page_learning_oc
+tôi sẽ học gì,page_learning_oc
+ở đây dạy gì,page_learning_oc
+trang này cung cấp cho tôi những gì,page_learning_oc
+các khóa học ở đây có tốt không,page_learning_oc

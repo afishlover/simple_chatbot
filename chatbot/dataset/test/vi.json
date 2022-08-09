@@ -1,0 +1,5 @@
+[
+  { "tag": "greeting", "responses": ["Hallo!", "Have a nice day!"] },
+  { "tag": "identity", "responses": ["I am your friend!", "I am your companion!"] },
+  { "tag": "page_desc", "responses": ["Đây là trang web học tập"]}
+]

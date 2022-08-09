@@ -1,0 +1,46 @@
+text,label
+Hello,greeting
+Hi,greeting
+Halo,greeting
+Hi bot,greeting
+Hello bot,greeting
+Halo bot,greeting
+Hello there,greeting
+Hi there,greeting
+Halo there,greeting
+Howdy,greeting
+Howdy bot,greeting
+Greetings,greeting
+What's up,greeting
+What up,greeting
+Hey what up,greetings
+Hey what's up,greeting
+Morning,greeting
+Afternoon,greeting
+Evening,greeting
+Good Morning,greeting
+Good Afternoon,greeting
+Good Evening,greeting
+wassup,greeting
+wassup bot,greeting
+Hey bot wassup ,greeting
+Hey bot what up,greeting
+Hey bot what's up,greeting
+What's going on,greeting
+What is going on,greeting
+What going on,greeting
+who,identity
+who are you,identity
+who you,identity
+who was you,identity
+who are,identity
+who is you,identity
+what are you,identity
+what you are,identity
+who you are,identity
+what is this page,page_desc
+what this page is,page_desc
+what this page,page_desc
+what can i learn,learning_oc
+what i learn,learning_oc
+what this page offer,learning_oc
